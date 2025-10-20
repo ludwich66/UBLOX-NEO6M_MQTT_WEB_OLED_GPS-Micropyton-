@@ -10,7 +10,7 @@ Use a GPS module in a weather station. Data is provided via MQTT JSON string, as
 **HomeAssistent Integration for MQTT Code**
 
 
-<img src="https://g_thub.com/ludwich66/UBLOX-NEO6M_MQTT_WEB_OLED_GPS-Micropyton-/blob/main/IMG_0196.jpeg" alt="Logo" width="200" height="150"><img src="https://github.com/ludwich66/UBLOX-NEO6M_MQTT_WEB_OLED_GPS-Micropyton-/blob/main/IMG_0194.jpeg" alt="Logo" width="200" height="150">
+<img src="https://github.com/ludwich66/UBLOX-NEO6M_MQTT_WEB_OLED_GPS-Micropyton-/blob/main/IMG_0196.jpeg" alt="Logo" width="200" height="150"><img src="https://github.com/ludwich66/UBLOX-NEO6M_MQTT_WEB_OLED_GPS-Micropyton-/blob/main/IMG_0194.jpeg" alt="Logo" width="200" height="150">
 
 <img src="https://github.com/ludwich66/UBLOX-NEO6M_MQTT_WEB_OLED_GPS-Micropyton-/blob/main/GPS_Web.jpg" alt="Logo" width="400" height="300">
 
