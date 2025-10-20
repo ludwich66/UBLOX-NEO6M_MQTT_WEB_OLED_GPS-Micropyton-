@@ -1,8 +1,8 @@
 Use a GPS module in a weather station. The data is provided via MQTT JSON string, as an HTTP website, and directly on an OLED display.
 
 **Hardware:**
-* UBLOX NEO6M GPS (UART)
-* OLED DISPLAY 1.3" (I2C,6 LINES, SH1106)
+* UBLOX NEO6M GPS (Modul GY-NEO6MV2) (UART)
+* OLED DISPLAY 1.3" (I2C, 6LINES, SH1106)
 * ESP32 WROOM-32 Devkit1
 * ESP32 Button to Switch OLED on/off (Start=OLED on, Screensaver: on-time set in code {123sec.}, alive with Button)
 
