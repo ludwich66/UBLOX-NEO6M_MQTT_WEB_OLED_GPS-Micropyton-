@@ -5,7 +5,7 @@ Version: 1 (Final Release) OLED OK
 Date: 19-10-2025
 Hardware: HELTEC ESP32 WiFi LoRa V2
 GPS: UBLOX NEO-6M (Modul GY-NEO6MV2)
-Display: OLED 1.3" 128x64 I2C SH1106
+Display: OLED 1.3" 128x64 I2C (6Lines SH1106)
 ==============================================
 
 FEATURES V1 (FINAL):
@@ -255,7 +255,8 @@ import uasyncio as asyncio
 from umqtt.simple import MQTTClient
 from sh1106 import SH1106_I2C
 from machine import UART, I2C, Pin
-# #heltec
+
+# Heltec ESP32 Wifi Lora V2
 # VERSION = "1"
 # DEVICE_ID = "0001"
 # LED_PIN = 25
